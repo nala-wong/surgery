@@ -1,0 +1,89 @@
+item {
+  id: 1
+  name: 'BC287R'
+  display_name: 'TC METZ SCISS BROAD-BLD CVD 230MM'
+}
+
+item {
+  id: 2
+  name: 'BT751R'
+  display_name: 'ABDOMINAL BLD.RETRACTOR MALEAB. 12X200MM'
+}
+
+item {
+  id: 3
+  name: 'FO520R'
+  display_name: 'MARQUARDT BONE RONFEUR CVD 200MM'
+}
+
+item {
+  id: 4
+  name: 'BT405R'
+  display_name: 'MIDDELDORPF RETR OPEN 20X22MM215MM'
+}
+
+item {
+  id: 5
+  name: 'FO641R'
+  display_name: 'RUSKIN BONE-CUTTING FORCEPS CVD 190MM'
+}
+
+item {
+  id: 6
+  name: 'BD240R'
+  display_name: 'CUSHING DEL STR FORCEPS 250MM'
+}
+
+item {
+  id: 7
+  name: 'BT755R'
+  display_name: 'ABDOMINAL BLD.RETRACTOR MALEAB. 25X250MM'
+}
+
+item {
+  id: 8
+  name: 'BM101R'
+  display_name: 'WERTHEIM NDLHLDR 240MM'
+}
+
+item {
+  id: 9
+  name: 'BH425R'
+  display_name: 'PEAN FORCEPS CVD 140MM'
+}
+
+item {
+  id: 10
+  name: 'BM069R'
+  display_name: 'TC MAYO-HEGAR NEEDLE HOLDER 305MM'
+}
+
+item {
+  id: 11
+  name: 'BC572R'
+  display_name: 'MAYO-STILLE SCISSORS STR 170MM'
+}
+
+item {
+  id: 12
+  name: 'BD521R'
+  display_name: 'ADSON TISSUE FCPS FINE W/1X2T 150MM'
+}
+
+item {
+  id: 13
+  name: 'BH155R'
+  display_name: 'CRILE FORCEPS DEL CVD 1X2 140MM'
+}
+
+item {
+  id: 14
+  name: 'BJ104R'
+  display_name: 'GEMINI CLAMP RT-ANG 230MM'
+}
+
+item {
+  id: 15
+  name: 'BJ096R'
+  display_name: 'OVERHOLT FORCEPS# 6 CVD 300MM'
+}
